@@ -1,0 +1,14 @@
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.exe
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.deps.json
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.runtimeconfig.json
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.dll
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\bin\Debug\net8.0\MemoryGame.pdb
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.AssemblyInfo.cs
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.dll
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\refint\MemoryGame.dll
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.pdb
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\MemoryGame.genruntimeconfig.cache
+C:\Users\Charly\source\repos\MemoryGame\MemoryGame\obj\Debug\net8.0\ref\MemoryGame.dll
